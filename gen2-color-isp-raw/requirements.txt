@@ -1,5 +1,0 @@
-numpy
-numba
-opencv-python
-argparse
-depthai==2.15.2.0
